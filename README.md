@@ -1,5 +1,7 @@
-## Hello World !
-## Bello Meanzon !
+## Hello World ! ## Bello Meanzon !
+min's 🦄meaning! Getting to know the meaning of coding life
+
+<hr>
 
 <!--
 **kimminju1022/kimminju1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -69,9 +71,9 @@
   <a href="https://www.instagram.com/add.mean/">
     <img src="">&nbsp
   </a>
-  <p>notion : </p>
+  <p>notion : 오늘도 성장하는 코딩새싹 민이의 의미있는 성장일지 notion ▷ 
   <a href="https://www.notion.so/ed6184bf8e3a4b629f8482a4e6c0e2a9">
     <img
       src="">&nbsp
-  </a>
+  </a></p>
 </div>
