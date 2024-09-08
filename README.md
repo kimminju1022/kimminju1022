@@ -14,8 +14,14 @@ https://github.com/anuraghazra-->
 
 <!--내용 부분-->
 <h3 align="center">✨ available language ✨</h3>
-[![Top Langs]
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimminju1022)](https://github.com/anuraghazra/github-readme-stats">
+- username=[사용자이름]
+- langs_count=[3]
+- layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
+- theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
+- ()﻿ = (https://github.com/kimminju1022)
+
+
+[![Top Langs](href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimminju1022)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="" />&nbsp
