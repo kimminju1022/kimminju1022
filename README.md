@@ -1,4 +1,4 @@
-## Hello World ! ## Bello Meanzon !
+## Hello World ! Bello Meanzon !
 min's 🦄meaning! Getting to know the meaning of coding life
 
 <hr>
