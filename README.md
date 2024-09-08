@@ -1,6 +1,7 @@
 ## Hello World ! Bello Meanzon !
 min's 🦄meaning! Getting to know the meaning of coding life
-
+<!--https://yoon990.tistory.com/38
+https://github.com/anuraghazra-->
 <hr>
 
 <!--
@@ -13,6 +14,8 @@ min's 🦄meaning! Getting to know the meaning of coding life
 
 <!--내용 부분-->
 <h3 align="center">✨ available language ✨</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminju1022)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <img src="" />&nbsp
   <img src="" />&nbsp
